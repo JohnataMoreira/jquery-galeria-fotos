@@ -1,2 +1,2 @@
-# modulo-09
+# jquery-galeira-fotos
  JQuery
